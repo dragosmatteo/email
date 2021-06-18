@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if (isset($_POST['sendMailBtn'])) {
     $fromEmail = $_POST['fromEmail'];
     $toEmail = $_POST['toEmail'];
@@ -34,4 +34,4 @@ if (isset($_POST['sendMailBtn'])) {
     echo '<script>window.location.href="index.php";</script>';
 }
 
-?>
+?> -->
